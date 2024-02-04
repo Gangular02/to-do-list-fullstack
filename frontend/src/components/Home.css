@@ -1,0 +1,15 @@
+*{
+    text-align: center;
+}
+.header{
+    margin-top: 100px;
+}
+.add{
+    margin:10px;
+}
+.listt{
+    margin: 10px;
+}
+.edit{
+    margin-left: 10px;
+}
